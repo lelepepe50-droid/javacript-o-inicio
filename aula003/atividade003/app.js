@@ -13,3 +13,5 @@ function fnjogo(){
 
 //if verdadeiro
 // else falso 
+
+// let chute = 0, numeromagico = Math.floor(Math.random)() * 10 + 1; função numero aleiatorio
